@@ -1,11 +1,6 @@
 ## Hi there 👋
-js
-let interests = [
-'coding',
-'music'
-];
 My toolbelt //
-<img width="80%" src="https://skillicons.dev/icons?i=js,html,css,figma,cs,dotnet,nodejs,discordjs,git,vscode">
+<img width="80%" src="https://skillicons.dev/icons?i=js,html,css,figma,cs,dotnet,nodejs,git,vscode,java">
 
 <a href="#">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=AndersRKvamme&show_icons=true&hide=prs,issues,contribs&rank_icon=github&theme=midnight-purple" />
